@@ -25,4 +25,4 @@ Credits:-
 9. https://www.youtube.com/watch?v=2KDIp... (Naruto silhouette)
 10. Inspiration taken from the classic game PacMan by Namco (https://en.wikipedia.org/wiki/Namco)
 
-link to our presentation explaining our project in detail - https://docs.google.com/presentation/...
+link to our presentation explaining our project in detail - https://docs.google.com/presentation/d/15aZ3kSjeyExnrFlGIauvxAkuMsERQ3wEOpIIf_KBL6A/edit?usp=sharing
