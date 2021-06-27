@@ -1,0 +1,36 @@
+game idea
+1. pacman by rolan karmin
+https://www.openprocessing.org/sketch/64131/
+
+2. two player pong by justin j
+https://www.openprocessing.org/sketch/83342/
+
+3. linking arduino and processing using firmata library
+https://adestefawp.wordpress.com/learning/using-arduino-firmata-and-processing-together/
+
+concept idea
+4. inspired from Naruto manga series by Masashi Kishimoto
+
+
+Sounds
+5. Naruto - raising fighting spirit by Toshiro Masuda
+link - https://www.youtube.com/watch?v=mjjkHg5FOhk
+anime produced by Studio Pierrot and Aniplex
+
+6. Rasengan sound - https://www.youtube.com/watch?v=Tqg92CcIoPo
+
+7. dattebayo sound - https://www.youtube.com/watch?v=Nxy4DfBQMeA
+
+8. chakra collection sound - https://www.zapsplat.com/?s=game+coin&post_type=music&sound-effect-category-id=
+
+9. main_reserved - noisia seven stitches
+https://www.youtube.com/watch?v=HluANRwPyNo
+
+Sites used
+1. mp3 to wav converter - https://audio.online-convert.com/convert-to-wav
+2. youtube to mp3 converter - https://youtubetomp3.biz/
+3. audio cutter - https://audiotrimmer.com/
+
+pictures
+1. naroman logo - https://fontmeme.com/naruto-font/
+2. naroman figure - https://www.seekpng.com/ipng/u2a9o0i1r5q8e6r5_cartoon-faces-anime-naruto-naruto-shippuden-dan-naruto/
