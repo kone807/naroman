@@ -2,9 +2,9 @@
 Repository for PIS minor project at IIITD for monsoon 2019
 
 # Contributors
-Hardik Garg
-Ayush Goyal
-Gitansh Raj Satija
+1. Hardik Garg
+2. Ayush Goyal
+3. Gitansh Raj Satija
 
 # Description
 An HCI based game involving physical movement of the players to play a Naruto based PacMan game. Supports both single and multi-player functionalities.
